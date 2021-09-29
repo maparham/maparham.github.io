@@ -4,7 +4,7 @@ mahmoud.parham@univie.ac.at
 
 I'm a doctoral candidate at the University of Vienna, Austria, and a member of the [research group Communication Technologies](https://ct.cs.univie.ac.at/team/person/102452/) headed by [Prof. Stefan Schmid](https://www.univie.ac.at/ct/stefan/).
 My research interest are thematically around concepts of software-defined networking and network function virtualization.
-I enjoy systematic problem solving, design of algorithms and proving properties formally.
+I enjoy systematic problem solving, devising algorithms and proving properties formally.
 
 ## Publications
 

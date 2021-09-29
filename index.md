@@ -39,3 +39,9 @@ Denmark, Supervisor: Stefan Schmid
 - 2010-2012, Master of Science, Sharif University of Technology, Tehran, Iran
 - 2004-2009, Bachelor in Computer Engineering, Kharazmi University, Tehran, Iran
 - 2000-2004, High School Diploma in Mathematics and Physics, Shahrood, Iran
+
+## Industary Experience
+
+- I have coded in C[++][11], Java, Javascript and Python and typical web development and scripting languages.
+- I worked at a German startup in Berlin, [Doc Cirrus](https://www.doc-cirrus.com), for nearly 2 years (2013--2015) as a backend developer (but more full stack). I was involved in the develpment of core backend modules for their distributed medical office system.
+- I had numerous programming jobs back in home country while I was studying, as a means of substinence (2002--2013). 

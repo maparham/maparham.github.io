@@ -29,3 +29,13 @@ IEEE Global Internet Symposium (**GI**), Honolulu, Hawaii, USA, April 2018.
 3rd International Workshop on Algorithmic Aspects of Cloud Computing (**ALGOCLOUD**), collocated with ESA, Vienna, Austria, September 2017.
 
 [Complete List in Google Scholar](https://scholar.google.com/citations?user=6d54q7IAAAAJ&hl=en)
+
+## Education
+
+- March 2018-Present PhD student (praedoc), University of Vienna, Supervisor: Stefan Schmid
+
+- May 2017-February 2018 PhD Fellow in Computer Science, Aalborg University,
+Denmark, Supervisor: Stefan Schmid
+- 2010-2012, Master of Science, Sharif University of Technology, Tehran, Iran
+- 2004-2009, Bachelor in Computer Engineering, Kharazmi University, Tehran, Iran
+- 2000-2004, High School Diploma in Mathematics and Physics, Shahrood, Iran

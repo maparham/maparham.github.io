@@ -44,4 +44,4 @@ Denmark, Supervisor: Stefan Schmid
 
 - I have coded in C[++][11], Java, Javascript, Python, and typical web development and scripting languages.
 - I worked at a German startup in Berlin, [Doc Cirrus](https://www.doc-cirrus.com) (2013--2015) as a backend developer (but more full stack). I was involved in the develpment of core backend modules on NodeJS for their distributed medical office system.
-- I had numerous programming jobs back in home country while I was studying as a means of subsistence (2002--2013). 
+- I had numerous programming jobs back in home country as a means of subsistence while I was studying (2002--2013). 

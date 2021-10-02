@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="3W2bi3DV9DO-yDIgUXErZBJxcGH7AW4DY6wJdRHhhaA" />
 
 # Mahmoud Parham
 

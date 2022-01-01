@@ -5,7 +5,7 @@ mahmoud.parham@univie.ac.at
 
 I'm a doctoral candidate at the University of Vienna, Austria, and a member of the [research group Communication Technologies](https://ct.cs.univie.ac.at/team/person/102452/) headed by [Prof. Stefan Schmid](https://www.univie.ac.at/ct/stefan/).
 My research interests are thematically around concepts of software-defined networking and network function virtualization.
-I enjoy systematic problem solving, devising algorithms, and proving properties formally.
+I enjoy problem solving, devising algorithms, and proving properties formally.
 
 ## Publications
 
@@ -43,5 +43,5 @@ Denmark, Supervisor: Stefan Schmid
 ## Industary Experience
 
 - I have coded in C[++][11], Java, Javascript, Python, and typical web development and scripting languages.
-- I worked at a German startup in Berlin, [Doc Cirrus](https://www.doc-cirrus.com) (2013--2015) as a backend developer (but more full stack). I was involved in the develpment of their backend fucntions on NodeJS.
+- I worked at a German startup in Berlin, [Doc Cirrus](https://www.doc-cirrus.com) (2013--2015) as a backend developer (more of full stack). I was involved in the develpment of their core backend functions on NodeJS.
 - I had numerous programming jobs back in home country as means of subsistence while studying (2002--2013). 

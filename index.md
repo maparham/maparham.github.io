@@ -33,7 +33,8 @@ IEEE Global Internet Symposium (**GI**), Honolulu, Hawaii, USA, April 2018.
 
 ## Education
 
-- March 2018-Present PhD student (praedoc), University of Vienna, Supervisor: Stefan Schmid
+- March 2018-2022 PhD student (praedoc), University of Vienna, Supervisor: Stefan Schmid,
+- - Thesis: [Algorithms for Traffic Control Challenges in Softwarized Networks](https://github.com/maparham/maparham.github.io/raw/main/PhD_thesis_MahmoudParham.pdf)
 - May 2017-February 2018 PhD Fellow in Computer Science, Aalborg University,
 Denmark, Supervisor: Stefan Schmid
 - 2010-2012, Master of Science, Sharif University of Technology, Tehran, Iran

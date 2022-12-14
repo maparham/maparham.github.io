@@ -1,8 +1,6 @@
 
 # Mahmoud Parham
 
-mahmoud.parham@univie.ac.at
-
 I received my PhD from the University of Vienna (2022), Austria ([thesis](https://github.com/maparham/maparham.github.io/blob/1d1d9dd2daea64743cbb51e7f28cc641197c6cce/PhD_thesis_MahmoudParham.pdf)).
 I was honored to me a member of the [research group Communication Technologies](https://ct.cs.univie.ac.at/team/person/102452/) headed by [Prof. Stefan Schmid](https://www.univie.ac.at/ct/stefan/).
 My research interests are thematically around concepts of software-defined networking and network function virtualization.

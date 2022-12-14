@@ -3,9 +3,12 @@
 
 mahmoud.parham@univie.ac.at
 
-I'm a doctoral candidate at the University of Vienna, Austria, and a member of the [research group Communication Technologies](https://ct.cs.univie.ac.at/team/person/102452/) headed by [Prof. Stefan Schmid](https://www.univie.ac.at/ct/stefan/).
+I received my PhD from the University of Vienna (2022), Austria ([thesis](https://github.com/maparham/maparham.github.io.git)).
+I was honored to me a member of the [research group Communication Technologies](https://ct.cs.univie.ac.at/team/person/102452/) headed by [Prof. Stefan Schmid](https://www.univie.ac.at/ct/stefan/).
 My research interests are thematically around concepts of software-defined networking and network function virtualization.
-I enjoy problem solving, devising algorithms, and proving properties formally.
+I enjoy problem solving, devising algorithms, and proving properties formally. As of now, I'm a research and developer at [Salzburg Research](https://www.salzburgresearch.at).
+
+
 
 ## Publications
 

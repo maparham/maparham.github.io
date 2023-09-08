@@ -3,11 +3,24 @@
 
 I received my PhD from the University of Vienna (2022, [thesis](https://github.com/maparham/maparham.github.io/blob/1d1d9dd2daea64743cbb51e7f28cc641197c6cce/PhD_thesis_MahmoudParham.pdf)).
 I was honored to be a member of the research group [Communication Technologies](https://ct.cs.univie.ac.at/team/person/102452/) led by [Prof. Stefan Schmid](https://www.univie.ac.at/ct/stefan/).
-My research interests are thematically around concepts of software-defined networking and network function virtualization.
-I enjoy problem-solving, devising algorithms, and proving properties formally.
-I'm interested in research and development opportunities in English-speaking companies.
+My research involved solving optimization problems around software-defined networking and network function virtualization concepts.
+I'm interested in applied research and/or development opportunities in English-speaking companies.
 
 
+## Work and Education
+- September 2022--July 2023. Salzburg Research mbH, Research and Development
+  
+- May 2022–August 2022. Software Developer, Parity Quantum Computing GmbH, Innsbruck
+
+- March 2018–December 2022. Doktoratsstudium der technischen Wissenschaften, Univer- sity of Vienna, supervised by Prof. Stefan Schmid, Thesis: Algorithms for Traffic Control Challenges in Softwarized Networks 2, defended December 2022
+
+- May 2017–February 2018. PhD Fellow in Computer Science, Aalborg University, Denmark, Supervisor: Stefan Schmid (continued in Austria)
+
+- February 2014–October 2015. Backend Developer, Doc Cirrus GmbH 3, Berlin, Germany, Role: developed backend services for a distributed medical office in Node.j
+
+- 2010–2012. MSc in Computer Science, Sharif University, Tehran, Iran
+
+- 2004–2009. BSc in Informatics, Kharazmi University, Tehran, Iran
 
 ## Publications
 
@@ -43,7 +56,7 @@ Denmark, Supervisor: Stefan Schmid
 - 2004-2009, Bachelor in Computer Engineering, Kharazmi University, Tehran, Iran
 - 2000-2004, High School Diploma in Mathematics and Physics, Shahrood, Iran
 
-## Industary Experience
+## Industry Experience
 
 - I have coded in C[++][11], Java, Javascript, Python, and typical web development and scripting languages.
 - I worked at a German startup in Berlin, [Doc Cirrus GmbH](https://www.doc-cirrus.com) (2013--2015) as a backend developer (more of full stack). I was involved in the develpment of their core backend functions on NodeJS.

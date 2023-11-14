@@ -8,6 +8,9 @@ I'm interested in applied research and/or development opportunities in English-s
 
 
 ## Work and Education
+
+- November 2023--Present. IMS Nanofabrication GmbH, Software Developer, Vienna
+
 - September 2022--July 2023. Salzburg Research mbH, Research and Development
   
 - May 2022–August 2022. Software Developer, Parity Quantum Computing GmbH, Innsbruck

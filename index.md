@@ -22,7 +22,7 @@ I'm interested in applied research and/or development opportunities in English-s
 
 - May 2017–February 2018. PhD Fellow in Computer Science, Aalborg University, Denmark, Supervisor: Stefan Schmid (continued in Austria)
 
-- February 2014–October 2015. Backend Developer, Doc Cirrus GmbH 3, Berlin, Germany, Role: developed backend services for a distributed medical office in Node.j
+- February 2014–October 2015. Backend Developer, Doc Cirrus GmbH, Berlin, Germany, Role: developed backend services for a distributed medical office in Node.j
 
 - 2010–2012. MSc in Computer Science, Sharif University, Tehran, Iran
 

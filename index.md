@@ -1,4 +1,4 @@
-
+![image](MahmoudParham.jpg)
 # Mahmoud Parham
 
 I received my PhD from the University of Vienna (2022, [thesis](https://github.com/maparham/maparham.github.io/blob/1d1d9dd2daea64743cbb51e7f28cc641197c6cce/PhD_thesis_MahmoudParham.pdf)).

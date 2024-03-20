@@ -18,7 +18,7 @@ I'm interested in applied research and/or development opportunities in English-s
   
 - May 2022–August 2022. Software Developer, Parity Quantum Computing GmbH, Innsbruck
 
-- March 2018–December 2022. Doktoratsstudium der technischen Wissenschaften, Univer- sity of Vienna, supervised by Prof. Stefan Schmid, Thesis: Algorithms for Traffic Control Challenges in Softwarized Networks 2, defended December 2022
+- March 2018–December 2022. Doktoratsstudium der technischen Wissenschaften, University of Vienna, supervised by Prof. Stefan Schmid, Thesis: Algorithms for Traffic Control Challenges in Softwarized Networks 2, defended December 2022
 
 - May 2017–February 2018. PhD Fellow in Computer Science, Aalborg University, Denmark, Supervisor: Stefan Schmid (continued in Austria)
 

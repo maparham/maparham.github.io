@@ -1,4 +1,4 @@
-<img align="right" width="200" height="200" src="MahmoudParham.jpg">
+<img align="right" width="155" height="155" src="MahmoudParham.jpg">
 
 
 

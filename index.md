@@ -63,8 +63,10 @@ Denmark, Supervisor: Stefan Schmid
 - 2004-2009, Bachelor in Computer Engineering, Kharazmi University, Tehran, Iran
 - 2000-2004, High School Diploma in Mathematics and Physics, Shahrood, Iran
 
-## Industry Experience
+## Some More
 
-- I have coded in C[++][11], Java, Javascript, Python, and typical web development and scripting languages.
-- I worked at a German startup in Berlin, [Doc Cirrus GmbH](https://www.doc-cirrus.com) (2013--2015) as a backend developer (more of full stack). I was involved in the develpment of their core backend functions on NodeJS.
-- I had numerous programming jobs back in home country as a passion and means of subsistence while studying (2002--2013). 
+- Started with programming out of pure passion in high school and first commercial job back in 2004 during bachelor studies (Tehran).
+- I'm familiar modern C++, Java, Javascript, Python, and typical web development and scripting languages.
+- Took my first job outside home country in a Berlin startup 2014, [Doc Cirrus GmbH](https://www.doc-cirrus.com) (2013--2015) as a backend   developer.
+- During the Beelin life I was fancing doing a PhD in CS and finally did it in 2022 but in Wien.
+- I'd like to be involved in challenging problem solving activies that keep me away from mundane of daily life. I'm pretty much flexible in picking up new tecnology and scientific fields as work demands.

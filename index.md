@@ -69,4 +69,4 @@ Denmark, Supervisor: Stefan Schmid
 - I'm familiar with modern C++, Java, Javascript, Python, Bash,...
 - Took my first job outside home country in a Berlin startup 2014, [Doc Cirrus GmbH](https://www.doc-cirrus.com) (2013--2015) as a backend   developer.
 - During the Berlin life I was fancing doing a PhD in CS and finally did it in 2022 but in Wien.
-- I'd like to be involved in challenging problem solving activies that keep me away from mundane of daily life. I'm pretty much flexible in picking up new tecnology and scientific fields as work demands.
+- I'd like to be involved in challenging problem solving activies that keep me away from mundane of daily life. I'm pretty much flexible in picking up new technologies and scientific fields as work demands.

@@ -65,7 +65,7 @@ Denmark, Supervisor: Stefan Schmid
 
 ## Some More
 
-- I started with programming out of pure passion in high school and got first commercial job back in 2004 during bachelor studies in Tehran.
+- I started with programming out of passion in high school and got first commercial job back in 2004 during bachelor studies in Tehran.
 - I'm familiar with modern C++, Java, Javascript, Python, Bash,...
 - Took my first job outside home country in a Berlin startup 2014, [Doc Cirrus GmbH](https://www.doc-cirrus.com) (2013--2015) as a backend   developer.
 - During the Berlin life I was fancing doing a PhD in CS and finally did it in 2022 but in Wien.

@@ -1,7 +1,4 @@
-<!---
 <img align="right" width="155" height="155" src="MahmoudParham.jpg">
---->
-
 
 # Mahmoud Parham
 

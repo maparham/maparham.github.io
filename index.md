@@ -1,9 +1,11 @@
-<img align="right" width="155" height="155" src="MahmoudParham.jpg">
+<img src="MahmoudParham.jpg" align="right" width="155" height="155" />
 
 # Mahan Parham
+
 **Mahmoud Parham**
 
 **Senior Software Developer**
+
 
 I received my PhD from the University of Vienna (2022, [thesis](https://utheses.univie.ac.at/detail/62431)).
 I was honored to be a member of the research group [Communication Technologies](https://ct.cs.univie.ac.at/team/person/102452/) led by [Prof. Stefan Schmid](https://schmiste.github.io/).

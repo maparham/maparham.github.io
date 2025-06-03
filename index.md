@@ -1,5 +1,3 @@
-<title>Mahan Parham</title>
-
 <img src="MahmoudParham.jpg" align="right" width="155" height="155" />
 
 # Mahan Parham

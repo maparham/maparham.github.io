@@ -17,7 +17,8 @@ I'm interested in applied research and/or development opportunities in English-s
 
 ## Work and Education
 
-_ June 2025--Present. Chatlyn, Vienna
+- June 2025--Present. Chatlyn, Vienna
+- 
 - November 2023--May 2025. IMS Nanofabrication GmbH, Software Developer, Vienna
 
 - September 2022--July 2023. Salzburg Research mbH, Research and Development

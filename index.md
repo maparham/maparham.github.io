@@ -17,13 +17,13 @@ I'm interested in applied research and/or development opportunities in English-s
 
 ## Work and Education
 
-- June 2025--Present. Chatlyn, Vienna
+- June 2025--Present. Chatlyn, Vienna, AI and LLMs
 
-- November 2023--May 2025. IMS Nanofabrication GmbH, Software Developer, Vienna
+- November 2023--May 2025. IMS Nanofabrication GmbH, Software Developer, Vienna, Python, ETL, test automation
 
-- September 2022--July 2023. Salzburg Research mbH, Research and Development
+- September 2022--July 2023. Salzburg Research mbH, Research and Development, Python, energy management systems
   
-- May 2022–August 2022. Software Developer, Parity Quantum Computing GmbH, Innsbruck
+- May 2022–August 2022. Software Developer, Parity Quantum Computing GmbH, Innsbruck, Python
 
 - March 2018–December 2022. Doktoratsstudium der technischen Wissenschaften, University of Vienna, supervised by Prof. Stefan Schmid, Thesis: Algorithms for Traffic Control Challenges in Softwarized Networks 2, defended December 2022
 
@@ -31,9 +31,9 @@ I'm interested in applied research and/or development opportunities in English-s
 
 - February 2014–October 2015. Software Developer, Doc Cirrus GmbH, Berlin, Germany
 
-- 2010–2012. MSc in Computer Science, Sharif University, Tehran, Iran
+- 2010–2012. MSc in Computer Science, Sharif University, Tehran, Iran, numerous part time programming jobs (Java, JS, C#)
 
-- 2004–2009. BSc in Informatics, Kharazmi University, Tehran, Iran
+- 2004–2009. BSc in Informatics, Kharazmi University, Tehran, Iran, numerous part time programming jobs (Java, JS, C#)
 
 ## Publications
 
@@ -68,6 +68,17 @@ Denmark, Supervisor: Stefan Schmid
 - 2010-2012, Master of Science, Sharif University of Technology, Tehran, Iran
 - 2004-2009, Bachelor in Computer Engineering, Kharazmi University, Tehran, Iran
 - 2000-2004, High School Diploma in Mathematics and Physics, Shahrood, Iran
+
+## Hands-on Experience
+- Coding: Python (advanced), C++11 (intermediate), JavaScript, Bash
+- Data: Pandas, Polars, Numpy, Plotly, MongoDB, InfluxDB, Grafana, SQL, Excel
+- Frontend: JavaScript (ES6+), jQuery, HTML5, CSS3; foundational knowledge transferable
+  to React, Next.js
+- Environments: PyCharm, IntelliJ IDEA, WebStorm, VSCode, Linux, macOS, Docker
+- Concepts: OOD, SOLID, Design Patterns, UML, Agile, Layered Design, Microservices
+- Team Work: Agile, Scrum, Git, Gerrit, Code Review, Sphinx, Confluence, Jira, Mattermost
+- Foundations: Algorithms and DS, Combinatorial Optimization, ML basics
+- Communication: Fluent English, Intermediate Deutsch (B1), Native Parsi (Persian)
 
 ## Some More
 

@@ -1,4 +1,4 @@
-<img src="MahanParham.jpg" align="right" width="155" height="155" />
+<img src="MahanParham.jpg" align="right" height="155" />
 
 # Mahan Parham
 

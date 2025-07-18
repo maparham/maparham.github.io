@@ -17,8 +17,6 @@ I'm interested in applied research and/or development opportunities in English-s
 
 ## Work and Education
 
-- June 2025--Present. Chatlyn, Vienna, AI full stack developer
-
 - November 2023--May 2025. IMS Nanofabrication GmbH, Software Developer, Vienna, Python, ETL, test automation
 
 - September 2022--July 2023. Salzburg Research mbH, Research and Development, Python, energy management systems

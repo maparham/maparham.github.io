@@ -6,9 +6,6 @@ Former Name: Mahmoud Parham
 
 maparham40 at gmail
 
-**Senior Software Developer**
-
-
 I received my PhD from the University of Vienna (2022, [thesis](https://utheses.univie.ac.at/detail/62431)).
 I was honored to be a member of the research group [Communication Technologies](https://ct.cs.univie.ac.at/team/person/102452/) led by [Prof. Stefan Schmid](https://schmiste.github.io/).
 My research involved solving optimization problems around software-defined networking and network function virtualization concepts.

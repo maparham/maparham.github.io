@@ -2,7 +2,7 @@
 
 # Mahan Parham
 
-aka Mahmoud Parham
+Former name: Mahmoud Parham
 
 maparham40 at gmail
 

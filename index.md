@@ -2,7 +2,7 @@
 
 # Mahmoud Parham
 
-Nick Name: Mahan Parham
+Preferred Name: Mahan Parham
 
 maparham40 at gmail
 

@@ -8,9 +8,9 @@ maparham40 at gmail
 
 
 I received my PhD from the University of Vienna (2022, [thesis](https://utheses.univie.ac.at/detail/62431)).
-I was honored to be a member of the research group [Communication Technologies](https://ct.cs.univie.ac.at/team/person/102452/) led by [Prof. Stefan Schmid](https://schmiste.github.io/).
-My research involved solving optimization problems around software-defined networking and network function virtualization concepts.
-I'm interested in applied research and/or development opportunities in English-speaking companies.
+I was fortunate to be a part of the research group [Communication Technologies](https://ct.cs.univie.ac.at/team/person/102452/) led by [Prof. Stefan Schmid](https://schmiste.github.io/).
+My research focused on optimization problems around software-defined networking and network function virtualization.
+I am particularly interested in opportunities that combine applied research and software development, especially within English-speaking companies.
 
 
 ## Work and Education
@@ -83,3 +83,12 @@ Denmark, Supervisor: Stefan Schmid
 - During the Berlin life, I was fancying doing a PhD in CS and finally did it in 2022 in Wien.
 - I'm familiar with modern C++, Java, Javascript, Python, Bash,...
 - I'd like to be involved in challenging problem solving activies that keep me away from the mundanes of daily life. I'm pretty much flexible in picking up new technologies and scientific fields as work demands.
+
+## German vs English
+
+English has been the language of science and tech for a long time and now is the new programming language.
+German is the language the German speaker communicates with other German speaking people. That's all German is to me!
+I do not wish to work in purely German speaking environments.
+Please do not force that overly complex and gendered language of yours on me when I don't need it. You resident permit laws are doing that in Austria.
+Don't be obsessed with a religion or culture or a language. I don't appreciate working the arrogant supramacist race obsessed Germans.
+Thank you for your attention to this matter.

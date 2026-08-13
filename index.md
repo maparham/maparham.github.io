@@ -1,8 +1,8 @@
 <img src="MahanParham.jpg" align="right" height="155" />
 
-# Mahan Parham
+# Mahmoud Parham
 
-Former Name: Mahmoud Parham
+Nick Name: Mahan Parham
 
 maparham40 at gmail
 

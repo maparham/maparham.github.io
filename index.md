@@ -91,5 +91,5 @@ German is the language the German speaker communicates with other German speakin
 I do not wish to work in purely German speaking environments.
 Please do not force that overly complex gendered language of yours on me when it's useless to me. Resident permit laws are already 
 doing that in Austria.
-try not to be obsessed with your religion or culture or language. That's the reason I don't appreciate working with the arrogant supramacist race obsessed Germans (both left and right wings).
+Try not to be obsessed with your religion or culture or language. That's the reason I don't appreciate working with the arrogant supramacist race obsessed Germans (both left and right wings).
 Thank you for your attention to this matter.

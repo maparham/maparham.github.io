@@ -88,7 +88,8 @@ Denmark, Supervisor: Stefan Schmid
 
 English has been the language of science and tech for a long time and now is the new programming language.
 German is the language the German speaker communicates with other German speaking people. That's all German is to me!
-I do not wish to work in purely German speaking environments.
-Please do not force that overly complex and gendered language of yours on me when I don't need it. You resident permit laws are doing that in Austria.
-Don't be obsessed with a religion or culture or a language. I don't appreciate working the arrogant supramacist race obsessed Germans.
+I do not wish to work in purely German speaking environments. Perhaps they will have to start learning Arabic the way their society is dveloping (backward) thanks to their arrogant radical left German Nachbar.
+Please do not force that overly complex and gendered language of yours on me when I don't need it. Resident permit laws are already 
+doing that in Austria.
+try not to be obsessed with your religion or culture or language. That's the reason I don't appreciate working with the arrogant supramacist race obsessed Germans (both left and right wings).
 Thank you for your attention to this matter.

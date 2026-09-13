@@ -140,6 +140,12 @@ p { margin: 0 0 1rem; }
   color: var(--muted);
 }
 
+.hero-meta {
+  color: var(--muted);
+  font-size: 0.94rem;
+  margin: 0 0 0.75rem;
+}
+
 /* Live recent-pushes strip */
 .recent { min-height: 0; }
 .recent ul {
@@ -158,6 +164,23 @@ p { margin: 0 0 1rem; }
   color: var(--muted);
   margin: 0 0 0.4rem;
 }
+
+/* Earlier projects */
+.earlier-title {
+  font-size: 1.05rem;
+  margin: 1.75rem 0 0.5rem;
+}
+.earlier {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.earlier li { margin: 0 0 0.35rem; }
+.earlier .repo {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.92rem;
+}
+.earlier .note { color: var(--muted); font-size: 0.94rem; }
 
 /* Experience timeline */
 .timeline {
@@ -186,6 +209,11 @@ p { margin: 0 0 1rem; }
   color: var(--muted);
   font-size: 0.9rem;
   display: block;
+}
+.timeline .detail {
+  display: block;
+  color: var(--muted);
+  font-size: 0.94rem;
 }
 
 /* Publications */

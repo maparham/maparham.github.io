@@ -9,6 +9,7 @@ description: PhD in computer science, software developer in Vienna. Recent proje
   <div>
     <h1>Mahan Parham</h1>
     <p class="tagline">Software developer in Vienna. PhD in computer science, University of Vienna.</p>
+    <p class="hero-meta">20+ years of writing code, 10+ of them professionally, across Iran, Germany, Denmark, and Austria. Five peer-reviewed papers.</p>
     <ul class="hero-links">
       <li><a href="https://github.com/maparham">GitHub</a></li>
       <li><a href="https://scholar.google.com/citations?user=6d54q7IAAAAJ&hl=en">Google Scholar</a></li>
@@ -29,13 +30,27 @@ description: PhD in computer science, software developer in Vienna. Recent proje
 <h2>About</h2>
 
 <p>
-I write software for a living and for fun. Most recently that means Python data and test-automation
-work in industry, and a steady stream of side projects, many of them small native macOS
-tools. Before that I did a PhD on algorithms for traffic control in softwarized networks,
-supervised by <a href="https://schmiste.github.io/">Prof. Stefan Schmid</a> in the
+I started programming out of passion in high school and landed my first commercial
+programming job in Tehran in 2004, during my bachelor studies. Through the BSc and MSc
+years I worked part-time on Java, JavaScript, and C# projects, and in 2014 I moved to
+Berlin to work as a backend developer at the medical software startup
+<a href="https://www.doc-cirrus.com">Doc Cirrus</a>.
+</p>
+
+<p>
+Curiosity about the theory behind the systems I was building led me to a PhD. I worked
+on algorithms for traffic control in softwarized networks, supervised by
+<a href="https://schmiste.github.io/">Prof. Stefan Schmid</a> in the
 <a href="https://ct.cs.univie.ac.at/">Communication Technologies</a> group at the
-University of Vienna. I'm most interested in roles that combine applied research with
-hands-on software development.
+University of Vienna, with results published at CoNEXT, INFOCOM, and OPODIS. Since then
+I have built software in three quite different industries: quantum computing, energy
+management, and semiconductor nanofabrication.
+</p>
+
+<p>
+These days I write Python, TypeScript, and Swift, and I keep a steady stream of side
+projects going, many of them small native macOS tools. I'm most interested in roles that
+combine applied research with hands-on software development.
 </p>
 
 <h2>Recent Projects</h2>
@@ -78,16 +93,50 @@ hands-on software development.
   <ul id="recent-repos"></ul>
 </div>
 
+<h3 class="earlier-title">Earlier projects</h3>
+<ul class="earlier">
+  <li><a class="repo" href="https://github.com/maparham/neq5-arduino-drive">neq5-arduino-drive</a> <span class="note">motorized my NEQ5 telescope mount with an Arduino (C++)</span></li>
+  <li><a class="repo" href="https://github.com/maparham/psudo-triangulation">psudo-triangulation</a> <span class="note">computational geometry with CGAL and Qt</span></li>
+  <li><a class="repo" href="https://github.com/maparham/segrouting">segrouting</a> <span class="note">C++ code behind the segment rerouting research</span></li>
+  <li><a class="repo" href="https://github.com/maparham/backup_path">backup_path</a> <span class="note">resilient routing experiments in C++</span></li>
+  <li><a class="repo" href="https://github.com/maparham/sshuttle_mac_app">sshuttle_mac_app</a> <span class="note">menu bar client for sshuttle VPN connections</span></li>
+  <li><a class="repo" href="https://github.com/maparham/claude-code-notifier">claude-code-notifier</a> <span class="note">per-session macOS notifications for Claude Code</span></li>
+</ul>
+
+<h2>Research</h2>
+
+<p>
+My PhD asked a practical question: when a network is programmable, how do you steer
+traffic through it well, and how do you keep it flowing when links fail? I worked on
+traffic engineering with segment routing (how to split flows over paths so no link
+saturates), fast rerouting (precomputed detours that take over within microseconds of a
+failure), and online graph partitioning (keeping chatty processes on the same machine as
+communication patterns shift). The common thread is combinatorial optimization applied
+to real networking constraints.
+</p>
+
+<p>
+<a href="/PhD_thesis_MahmoudParham.pdf">Thesis (PDF)</a> ·
+<a href="/PhD_defense_Mahmoud.pdf">Defense slides (PDF)</a> ·
+<a href="https://scholar.google.com/citations?user=6d54q7IAAAAJ&hl=en">Google Scholar</a>
+</p>
+
 <h2>Experience</h2>
 
 <ul class="timeline">
-  <li><span class="when">2023 – 2025</span> Software developer, IMS Nanofabrication GmbH, Vienna (Python, ETL, test automation)</li>
-  <li><span class="when">2022 – 2023</span> Research &amp; development, Salzburg Research, Salzburg (Python, energy management systems)</li>
-  <li><span class="when">2022</span> Software developer, Parity Quantum Computing GmbH, Innsbruck (Python)</li>
-  <li><span class="when">2018 – 2022</span> PhD in computer science, University of Vienna, thesis: <a href="/PhD_thesis_MahmoudParham.pdf">Algorithms for Traffic Control Challenges in Softwarized Networks</a>, defended December 2022</li>
+  <li><span class="when">2023 – 2025</span> Software developer, IMS Nanofabrication GmbH, Vienna
+    <span class="detail">Data pipelines (ETL) and test automation, in Python, for the machines that write the photomasks behind modern chips.</span></li>
+  <li><span class="when">2022 – 2023</span> Research &amp; development, Salzburg Research, Salzburg
+    <span class="detail">Applied R&amp;D on energy management systems, in Python.</span></li>
+  <li><span class="when">2022</span> Software developer, Parity Quantum Computing GmbH, Innsbruck
+    <span class="detail">Python development at a company building quantum computing architectures.</span></li>
+  <li><span class="when">2018 – 2022</span> PhD in computer science, University of Vienna
+    <span class="detail">Thesis: <a href="/PhD_thesis_MahmoudParham.pdf">Algorithms for Traffic Control Challenges in Softwarized Networks</a>, defended December 2022.</span></li>
   <li><span class="when">2017 – 2018</span> PhD fellow in computer science, Aalborg University, Denmark (continued in Vienna)</li>
-  <li><span class="when">2014 – 2015</span> Backend developer, Doc Cirrus GmbH, Berlin</li>
-  <li><span class="when">2010 – 2012</span> MSc in computer science, Sharif University of Technology, Tehran</li>
+  <li><span class="when">2014 – 2015</span> Backend developer, Doc Cirrus GmbH, Berlin
+    <span class="detail">JavaScript backend work on a data platform for medical practices.</span></li>
+  <li><span class="when">2010 – 2012</span> MSc in computer science, Sharif University of Technology, Tehran
+    <span class="detail">Alongside part-time programming jobs in Java, JavaScript, and C#.</span></li>
   <li><span class="when">2004 – 2009</span> BSc in informatics, Kharazmi University, Tehran</li>
 </ul>
 
@@ -132,6 +181,15 @@ hands-on software development.
   <dt>Foundations</dt>
   <dd>Algorithms and data structures, combinatorial optimization, ML basics</dd>
 </dl>
+
+<h2>Beyond work</h2>
+
+<p>
+Programming started as a passion long before it became a profession, and the side
+projects above are the proof that it stayed one. I like problems that pull me out of
+the mundane, and I'm flexible about picking up whatever technology or scientific field
+the problem demands: the list above runs from telescope mounts to quantum computers.
+</p>
 
 <footer>
   Fluent English · German (B1) · Native Persian. I prefer working in English-speaking environments.

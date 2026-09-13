@@ -31,7 +31,7 @@ body {
   margin: 0;
   background: var(--paper);
   color: var(--ink);
-  font-family: "Atkinson Hyperlegible", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Public Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 1.0625rem;
   line-height: 1.6;
 }
@@ -120,7 +120,7 @@ p { margin: 0 0 1rem; }
   padding: 0.9rem 1rem;
 }
 .projects .repo {
-  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-family: "Roboto Mono", ui-monospace, monospace;
   font-size: 0.95rem;
   font-weight: 500;
 }
@@ -157,7 +157,7 @@ p { margin: 0 0 1rem; }
   gap: 0.4rem 0.9rem;
   font-size: 0.9rem;
 }
-.recent .repo { font-family: "IBM Plex Mono", ui-monospace, monospace; }
+.recent .repo { font-family: "Roboto Mono", ui-monospace, monospace; }
 .recent .when { color: var(--muted); }
 .recent-label {
   font-size: 0.9rem;
@@ -177,7 +177,7 @@ p { margin: 0 0 1rem; }
 }
 .earlier li { margin: 0 0 0.35rem; }
 .earlier .repo {
-  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-family: "Roboto Mono", ui-monospace, monospace;
   font-size: 0.92rem;
 }
 .earlier .note { color: var(--muted); font-size: 0.94rem; }
